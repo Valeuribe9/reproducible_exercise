@@ -1,0 +1,16 @@
+[project]
+authors = ["Valeuribe9 <valentinauribe@msn.com>"]
+channels = ["conda-forge", "bioconda"]
+description = "Add a short description here"
+name = "Reproducible_model_ie"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+cookiecutter = ">=2.6.0,<3"
+jinja2-time = ">=0.2.0,<0.3"
+dvc = ">=3.48.2"
+imod = "0.15.3.*"
+snakemake = ">=8.18.2,<9"
