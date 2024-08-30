@@ -1,7 +1,7 @@
 reproducible_exercise
 ==============================
 
-This is an example to create an snakemake project from scratch
+Reproducible workflow to run a groundwater model for the Drentse Hondsrug
 
 Project Organization
 --------------------
